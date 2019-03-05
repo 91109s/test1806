@@ -1,0 +1,1 @@
+[{"model": "authorization.users", "pk": 1, "fields": {"name": "lucy", "address": "jiujiangm", "city": "jiujiang", "country": "cn"}}, {"model": "authorization.users", "pk": 2, "fields": {"name": "lucy", "address": "jiujiangm", "city": "jiujiang", "country": "cn"}}]
